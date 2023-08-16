@@ -11,5 +11,5 @@
 - :school: I am a `Junior` at The University of Minnesota, Twin Cities
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Computer Science`.
-- :thinking: I’m currently open for: `An Internship` or a new `Job Opportunity`, this is [MY RESUME](https://drive.google.com/file/d/14UAM4Wyk7YDgrMQCsTSf1HPfeTJ4ssPJ/view?usp=sharing).
+- :thinking: I’m currently open for: `An Internship` or a new `Job Opportunity`, this is [MY RESUME](https://olig.dev/images/Henry-Olig-Resume.pdf).
 - :nerd_face: Always `learning new things`
